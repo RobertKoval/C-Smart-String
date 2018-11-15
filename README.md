@@ -5,9 +5,9 @@
 Little function to create string from variables without using **strjoin**.
 
 Currently supported arguments:
-* char*
-* int
-* unsigned int
+* char*           - %s
+* int             - %i
+* unsigned int    - %u
 
 #### Example
 ```$xslt
